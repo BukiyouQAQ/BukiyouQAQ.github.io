@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://bukiyouqaq.github.io/"/>
-  <updated>2021-07-04T13:45:58.918Z</updated>
+  <updated>2022-03-19T15:56:49.788Z</updated>
   <id>https://bukiyouqaq.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>解决阿里云服务器上挖矿病毒crypto的实况记录</title>
+    <link href="https://bukiyouqaq.github.io/2022/03/19/%E8%A7%A3%E5%86%B3%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E6%8C%96%E7%9F%BF%E7%97%85%E6%AF%92crypto%E7%9A%84%E5%AE%9E%E5%86%B5%E8%AE%B0%E5%BD%95/"/>
+    <id>https://bukiyouqaq.github.io/2022/03/19/解决阿里云服务器上挖矿病毒crypto的实况记录/</id>
+    <published>2022-03-19T15:23:15.000Z</published>
+    <updated>2022-03-19T15:56:49.788Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;起因是收到阿里云的一条短信：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/BukiyouQAQ/cdn@master/img/startdash/6EWM3E%7BIE0ZZ64@53NMEJ21.png&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://bukiyouqaq.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="杂项" scheme="https://bukiyouqaq.github.io/tags/%E6%9D%82%E9%A1%B9/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://bukiyouqaq.github.io/2021/07/04/hello-world/"/>
     <id>https://bukiyouqaq.github.io/2021/07/04/hello-world/</id>
     <published>2021-07-04T13:45:58.918Z</published>
-    <updated>2021-07-04T13:45:58.918Z</updated>
+    <updated>2022-03-19T15:56:11.111Z</updated>
     
     <summary type="html">
     
@@ -43,7 +70,7 @@
     <link href="https://bukiyouqaq.github.io/2018/12/12/Hexo-Theme-Sakura/"/>
     <id>https://bukiyouqaq.github.io/2018/12/12/Hexo-Theme-Sakura/</id>
     <published>2018-12-12T14:16:01.000Z</published>
-    <updated>2020-03-16T10:41:30.000Z</updated>
+    <updated>2022-03-19T15:19:04.017Z</updated>
     
     <summary type="html">
     
